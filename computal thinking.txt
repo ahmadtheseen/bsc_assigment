@@ -1,0 +1,11 @@
+Real-world problem: Planning a trip
+
+Steps using computational thinking:
+1. Decompose the task into parts â€” destination, travel method, accommodation, and budget.
+2. Gather information and compare options (flights, hotels, prices).
+3. Create an algorithm: 
+   - Choose destination
+   - Book flight
+   - Reserve hotel
+   - Pack luggage
+4. Execute and test â€” follow the plan, and adjust if there are delays or changes.
